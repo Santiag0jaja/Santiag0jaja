@@ -26,7 +26,7 @@ Si deseas ver mas detalles sobre lo que soy capaz de hacer, visita mi [curriculu
 
 &nbsp;
 
-## 👇 &nbsp;Proyectos recientes
+## 👇 &nbsp;Proyecto actual
 
 Actualmente estoy tabajando en [Ecosmile](https://santiag0jaja.github.io/Ecosmile). Una pagina web que proximamente sera una aplicacion capaz de generar pedidod del producto y tener un backend más poderoso.
   <div align="center">
