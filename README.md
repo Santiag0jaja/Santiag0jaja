@@ -1,13 +1,36 @@
-<h2 align="left">Bienvenido a mi perfil de GitHub!</h2>
+![Holaaa! soy Santiago y soy un programador enfocado en la bioingenieria, mira lo que he logrado:](assets/img/banner.gif)
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Santiag0jaja&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santiag0jaja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <a href="www.linkedin.com/in/santiago-diaz-e" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="santiagodiazeo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/its_tiago02/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.link/op648z" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo"  />
+  </a>
 </div>
 
-###
+# 👋 &nbsp;Buenass!
+
+Hola! Soy un desarollador Colombiano con vias a bioingenieria. Me encanta aprender de diferentes lenguajes de programacion y suelo ser bastante versatil a la hora de trabajar frontend o backend. 
+Si deseas ver mas desalles sobre lo que soy capaz de hacer, visita mi [curriculum](https://santiag0jaja.github.io/Curriculum) (pagina web realizada por mi mismo).
+
+&nbsp;
+
+## 👇 &nbsp;Proyectos recientes
+
+Actualmente estoy tabajando en [Ecosmile](https://santiag0jaja.github.io/Ecosmile). Una pagina web que proximamente sera una aplicacion capaz de generar pedidod del producto y tener un backend más poderoso.
+
+![Ecosmile](/assets/img/ecosmile.png)
+
+&nbsp;
+
+## 🧰 &nbsp;Habilidades
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -19,33 +42,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+&nbsp;
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRoenY4OWlxdmxobm0yb2YwMnY0a3l1cDVxNXNwNWo3MzFhbjA5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUJjhss4bBqJoOI/giphy.gif"  />
+## 🖥 &nbsp;Otros proyectos destacados
 
-###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiag0jaja&repo=Skyvoyage&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Santiag0jaja/Skyvoyage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santiag0jaja&repo=Terna-FOUR&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Santiag0jaja/Terna-FOUR)
 
-<div align="left">
-  <a href="www.linkedin.com/in/santiago-diaz-e" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="santiagodiazeo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/its_tiago02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.link/op648z" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+&nbsp;
 
-###
+## 📊 &nbsp;Stats
 
-<div align="center">
-  <a href="https://open.spotify.com/user/okzo2lrveepzzagy145ogx9ij">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=okzo2lrveepzzagy145ogx9ij&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=Santiag0jaja&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santiag0jaja&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+---
+
+<img align="center" height="200" src="https://media.giphy.com/media/UQ1LQCGpFHGgz0Y28W/giphy.gif?cid=ecf05e47q6h1uxpiy0ykuxjkadaebqvxljyfmbk1pvm13nng&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
