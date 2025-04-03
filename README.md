@@ -1,4 +1,4 @@
-![Holaaa! soy Santiago y soy un programador enfocado en la bioingenieria, mira lo que he logrado:](assets/img/banner.gif)
+![Holaaa! soy Santiago y soy un programador enfocado en la bioingenieria, mira lo que he logrado:](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlhM2xqdmg1c2h5Nm92YXhsdDFqY3RoZzdkaDh6d3kwZjBrc2dzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4psWQdadR6pUdLfz8c/giphy.gif)
 
 <div align="left">
   <a href="www.linkedin.com/in/santiago-diaz-e" target="_blank">
