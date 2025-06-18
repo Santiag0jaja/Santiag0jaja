@@ -50,7 +50,7 @@ Actualmente estoy tabajando en [Ecosmile](https://santiag0jaja.github.io/Ecosmil
 
 ## 🖥 &nbsp;Otros proyectos destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiag0jaja&repo=Skyvoyage&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Santiag0jaja/Skyvoyage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santiag0jaja&repo=Terna-FOUR&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Santiag0jaja/Terna-FOUR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santiag0jaja&repo=Skyvoyage&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Santiag0jaja/Skyvoyage) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Santiag0jaja&repo=app-heladeria&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Santiag0jaja/app-heladeria)
 
 &nbsp;
 
